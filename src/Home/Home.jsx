@@ -13,6 +13,7 @@ const Home = () => {
 
   return (
     <div className="home-container">
+      <img src="AND-logo.png" width="500px" class="logo" alt="logo" />
       <input
         type="text"
         placeholder="Room"
